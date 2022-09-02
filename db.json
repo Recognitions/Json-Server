@@ -1,68 +1,14 @@
 {
   "products": [
     {
-      "name": "asd",
-      "price": 912,
-      "desc": "dkask",
-      "id": 22
-    },
-    {
-      "name": "asd",
-      "price": 92,
-      "desc": "dkask",
-      "id": 23
-    },
-    {
-      "name": "Zap",
-      "price": 921,
-      "desc": "kdask",
-      "id": 24
-    },
-    {
-      "name": "asd",
-      "price": 299,
-      "desc": "kka",
-      "id": 25
-    },
-    {
-      "name": "asd",
-      "price": 912,
-      "desc": "dksk",
-      "id": 26
-    },
-    {
-      "name": "dasd",
-      "price": 29,
-      "desc": "ask",
-      "id": 27
-    },
-    {
-      "name": "asd",
-      "price": 29,
-      "desc": "ksdak",
-      "id": 28
-    },
-    {
-      "name": "pipipi",
-      "price": 100,
-      "desc": "dak",
-      "id": 29
-    },
-    {
-      "name": "Pop",
-      "price": 92,
-      "desc": "aks",
-      "id": 30
-    },
-    {
-      "name": "oi",
-      "price": 9219,
+      "name": "mew",
+      "price": "9219",
       "desc": "sakd",
       "id": 31
     },
     {
-      "name": "ew",
-      "price": 2,
+      "name": "dassdsa",
+      "price": "2",
       "desc": "s",
       "id": 32
     },

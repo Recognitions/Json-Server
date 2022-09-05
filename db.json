@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "name": "mew",
-      "price": "9219",
-      "desc": "sakd",
-      "id": 31
-    },
-    {
       "name": "dassdsa",
       "price": "2",
       "desc": "s",
@@ -35,6 +29,12 @@
       "price": 219,
       "desc": "kdask",
       "id": 36
+    },
+    {
+      "name": "ASD",
+      "price": 231,
+      "desc": "DAS",
+      "id": 37
     }
   ]
 }
